@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Plop Pack Git Init",
+		"repoUrl": "crutchcorn/plop-pack-git-init",
+		"category": "Actions"
+	},
+	{
+		"name": "Plop Pack NPM Install",
+		"repoUrl": "crutchcorn/plop-pack-npm-install",
+		"category": "Actions"
+	}
+]

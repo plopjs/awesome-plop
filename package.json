@@ -1,0 +1,23 @@
+{
+  "name": "awesome-plop",
+  "version": "1.0.0",
+  "description": "A list of awesome PlopJS related projects",
+  "main": "markdown-from-repos.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plopjs/awesome-plop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plopjs/awesome-plop/issues"
+  },
+  "homepage": "https://github.com/plopjs/awesome-plop#readme"
+}
