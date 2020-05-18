@@ -4,6 +4,7 @@ const path = require('path');
 const fetch = require('node-fetch');
 
 const data = JSON.parse(fs.readFileSync('./data.json', 'utf8'));
+const plopHeader = fs.readFileSync('./plop-header.md', 'utf8');
 
 const cfg = { headers: { 'user-agent': 'Mozilla/5.0' } };
 
@@ -38,12 +39,9 @@ Promise.all(
 			const headerItems = repoArr
 				.map((repoData) => `- [${repoData.name}](${repoData.html_url}) - ${repoData.description}`)
 				.join('\n');
-			return `# ${header}\n\n${headerItems}`;
+			return `## ${header}\n\n${headerItems}`;
 		})
 		.join('\n\n');
 
-	fs.writeFileSync(
-		'./awesomelist.md',
-		['---', 'title: Awesome List', 'layout: awesomelist.hbs', '---', awesomeListData].join('\n')
-	);
+	fs.writeFileSync('./README.md', [plopHeader, awesomeListData].join('\n'));
 });
