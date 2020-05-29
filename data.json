@@ -8,5 +8,10 @@
 		"name": "Plop Pack NPM Install",
 		"repoUrl": "crutchcorn/plop-pack-npm-install",
 		"category": "Actions"
+	},
+	{
+		"name": "Plop Pack Azure NPM",
+		"repoUrl": "crutchcorn/plop-pack-azure-npm",
+		"category": "Actions"
 	}
 ]
