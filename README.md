@@ -12,8 +12,10 @@ Because of it's powerful extendability, you can make your own packages that tie 
 - [Plop Pack Git Init](https://github.com/crutchcorn/plop-pack-git-init) - A plop helper that provides a git init action for CLI purposes
 - [Plop Pack NPM Install](https://github.com/crutchcorn/plop-pack-npm-install) - A plop helper that provides an npm install action for CLI purposes
 - [Plop Pack Azure NPM](https://github.com/crutchcorn/plop-pack-azure-npm) - A plop helper that provides a setup for Azure NPM NPMRC files
-- [Plop Pack Actions](https://github.com/bradgarropy/plop-pack-actions) - Collection of plop utility actions to make your life easier.
+- [Plop Action Copy](https://github.com/bradgarropy/plop-action-copy) - A plop action to copy files.
 
 ## Helpers
 
-- [Plop Pack Helpers](https://github.com/bradgarropy/plop-pack-helpers) - Collection of plop utility helpers to make your life easier.
+- [Plop Helper Date](https://github.com/bradgarropy/plop-helper-date) - A plop helper to grab the current date.
+- [Plop Helper List](https://github.com/bradgarropy/plop-helper-list) - A plop helper that formats comma separated values.
+- [Plop Helper Slugify](https://github.com/bradgarropy/plop-helper-slugify) - A plop helper that slugifies text.
