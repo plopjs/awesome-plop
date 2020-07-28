@@ -15,13 +15,23 @@
 		"category": "Actions"
 	},
 	{
-		"name": "Plop Pack Helpers",
-		"repoUrl": "bradgarropy/plop-pack-helpers",
+		"name": "Plop Action Copy",
+		"repoUrl": "bradgarropy/plop-action-copy",
+		"category": "Actions"
+	},
+	{
+		"name": "Plop Helper Date",
+		"repoUrl": "bradgarropy/plop-helper-date",
 		"category": "Helpers"
 	},
 	{
-		"name": "Plop Pack Actions",
-		"repoUrl": "bradgarropy/plop-pack-actions",
-		"category": "Actions"
+		"name": "Plop Helper List",
+		"repoUrl": "bradgarropy/plop-helper-list",
+		"category": "Helpers"
+	},
+	{
+		"name": "Plop Helper Slugify",
+		"repoUrl": "bradgarropy/plop-helper-slugify",
+		"category": "Helpers"
 	}
 ]
