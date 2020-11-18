@@ -10,6 +10,11 @@
 		"category": "Actions"
 	},
 	{
+		"name": "Plop Pack NPM Install Packages",
+		"repoUrl": "piersolenski/plop-pack-npm-install-packages",
+		"category": "Actions"
+	},
+	{
 		"name": "Plop Pack Azure NPM",
 		"repoUrl": "crutchcorn/plop-pack-azure-npm",
 		"category": "Actions"
