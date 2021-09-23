@@ -38,5 +38,20 @@
 		"name": "Plop Helper Slugify",
 		"repoUrl": "bradgarropy/plop-helper-slugify",
 		"category": "Helpers"
-	}
+	},
+	{
+		"name": "Plop Generator React Component",
+		"repoUrl": "bradgarropy/plop-generator-react-component",
+		"category": "Generators"
+	  },
+	  {
+		"name": "Plop Generator React Context",
+		"repoUrl": "bradgarropy/plop-generator-react-context",
+		"category": "Generators"
+	  },
+	  {
+		"name": "Plop Generator React Hooks",
+		"repoUrl": "bradgarropy/plop-generator-react-hooks",
+		"category": "Generators"
+	  }
 ]
