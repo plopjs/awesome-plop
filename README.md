@@ -20,3 +20,9 @@ Because of it's powerful extendability, you can make your own packages that tie 
 - [Plop Helper Date](https://github.com/bradgarropy/plop-helper-date) - A plop helper to grab the current date.
 - [Plop Helper List](https://github.com/bradgarropy/plop-helper-list) - A plop helper that formats comma separated values.
 - [Plop Helper Slugify](https://github.com/bradgarropy/plop-helper-slugify) - A plop helper that slugifies text.
+
+## Generators
+
+- [Plop Generator React Component](https://github.com/bradgarropy/plop-generator-react-component) - A plop generator for React components.
+- [Plop Generator React Context](https://github.com/bradgarropy/plop-generator-react-context) - A plop generator for React context.
+- [Plop Generator React Hook](https://github.com/bradgarropy/plop-generator-react-hook) - A plop generator for React hooks.

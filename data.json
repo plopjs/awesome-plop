@@ -50,8 +50,8 @@
 		"category": "Generators"
 	  },
 	  {
-		"name": "Plop Generator React Hooks",
-		"repoUrl": "bradgarropy/plop-generator-react-hooks",
+		"name": "Plop Generator React Hook",
+		"repoUrl": "bradgarropy/plop-generator-react-hook",
 		"category": "Generators"
 	  }
 ]
