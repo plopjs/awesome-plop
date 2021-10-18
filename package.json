@@ -1,10 +1,14 @@
 {
   "name": "awesome-plop",
   "version": "1.0.0",
+  "type": "module",
   "description": "A list of awesome PlopJS related projects",
   "main": "markdown-from-repos.js",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.0.0"
+  },
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
   },
   "devDependencies": {},
   "scripts": {

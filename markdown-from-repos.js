@@ -1,10 +1,8 @@
-const https = require('https');
-const fs = require('fs');
-const path = require('path');
-const fetch = require('node-fetch');
+import {readFileSync, writeFileSync} from 'node:fs';
+import fetch from 'node-fetch';
 
-const data = JSON.parse(fs.readFileSync('./data.json', 'utf8'));
-const plopHeader = fs.readFileSync('./plop-header.md', 'utf8');
+const data = JSON.parse(readFileSync('./data.json', 'utf8'));
+const plopHeader = readFileSync('./plop-header.md', 'utf8');
 
 const cfg = { headers: { 'user-agent': 'Mozilla/5.0' } };
 
@@ -43,5 +41,5 @@ Promise.all(
 		})
 		.join('\n\n');
 
-	fs.writeFileSync('./README.md', [plopHeader, awesomeListData].join('\n'));
+	writeFileSync('./README.md', [plopHeader, awesomeListData].join('\n'));
 });
