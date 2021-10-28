@@ -25,6 +25,11 @@
 		"category": "Actions"
 	},
 	{
+		"name": "Plop Pack Remove",
+		"repoUrl": "TheSharpieOne/plop-pack-remove",
+		"category": "Actions"
+	},
+	{
 		"name": "Plop Helper Date",
 		"repoUrl": "bradgarropy/plop-helper-date",
 		"category": "Helpers"
