@@ -27,3 +27,7 @@ Because of it's powerful extendability, you can make your own packages that tie 
 - [Plop Generator React Component](https://github.com/bradgarropy/plop-generator-react-component) - A plop generator for React components.
 - [Plop Generator React Context](https://github.com/bradgarropy/plop-generator-react-context) - A plop generator for React context.
 - [Plop Generator React Hook](https://github.com/bradgarropy/plop-generator-react-hook) - A plop generator for React hooks.
+
+## IDE Plugins
+
+- [Plop File Templates for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=SamKirkland.plop-templates) - Trigger plop from VSCode context menus.
