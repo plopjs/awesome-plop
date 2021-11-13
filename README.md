@@ -30,4 +30,4 @@ Because of it's powerful extendability, you can make your own packages that tie 
 
 ## IDE Plugins
 
-- [Plop File Templates for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=SamKirkland.plop-templates) - Trigger plop from VSCode context menus.
+- [Plop File Templates for Visual Studio Code](https://github.com/SamKirkland/plop-templates) - VSCode extension for plop.js file templates

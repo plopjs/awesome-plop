@@ -58,5 +58,10 @@
 		"name": "Plop Generator React Hook",
 		"repoUrl": "bradgarropy/plop-generator-react-hook",
 		"category": "Generators"
+	  },
+	  {
+		"name": "Plop File Templates for Visual Studio Code",
+		"repoUrl": "SamKirkland/plop-templates",
+		"category": "IDE Plugins"
 	  }
 ]
