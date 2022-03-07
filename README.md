@@ -4,8 +4,7 @@
 
 [PlopJS](https://plopjs.com/) is a code generator meant to provide ease-of-use and power. Plop generates code when you want, how you want, and can be changed whenever you want.
 
-Because of it's powerful extendability, you can make your own packages that tie into Plop in an extensible manner. Here are some packages that relate to Plop.
-
+Because of its powerful extendability, you can make your own packages that tie into Plop in an extensible manner. Here are some packages that relate to Plop.
 
 ## Actions
 
@@ -15,6 +14,7 @@ Because of it's powerful extendability, you can make your own packages that tie 
 - [Plop Pack Azure NPM](https://github.com/crutchcorn/plop-pack-azure-npm) - A plop helper that provides a setup for Azure NPM NPMRC files
 - [Plop Action Copy](https://github.com/bradgarropy/plop-action-copy) - A plop action to copy files.
 - [Plop Pack Remove](https://github.com/TheSharpieOne/plop-pack-remove) - Plop actions that provides the ability to remove individual and globs of files
+- [Plop Action ESLint](https://github.com/natterstefan/plop-action-eslint) - A Plop action to lint files with ESLint and automatically format with Prettier.
 
 ## Helpers
 
