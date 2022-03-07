@@ -6,7 +6,6 @@
 
 Because of its powerful extendability, you can make your own packages that tie into Plop in an extensible manner. Here are some packages that relate to Plop.
 
-
 ## Actions
 
 - [Plop Pack Git Init](https://github.com/crutchcorn/plop-pack-git-init) - A plop helper that provides a git init action for CLI purposes
@@ -14,7 +13,7 @@ Because of its powerful extendability, you can make your own packages that tie i
 - [Plop Pack NPM Install Packages](https://github.com/piersolenski/plop-pack-npm-install-packages) - A plop action to install packages with NPM
 - [Plop Pack Azure NPM](https://github.com/crutchcorn/plop-pack-azure-npm) - A plop helper that provides a setup for Azure NPM NPMRC files
 - [Plop Action Copy](https://github.com/bradgarropy/plop-action-copy) - A plop action to copy files.
-- [Plop Pack Remove](https://github.com/TheSharpieOne/plop-pack-remove) - Plop actions that provide the ability to remove individual and globs of files
+- [Plop Pack Remove](https://github.com/TheSharpieOne/plop-pack-remove) - Plop actions that provides the ability to remove individual and globs of files
 - [Plop Action ESLint](https://github.com/natterstefan/plop-action-eslint) - A Plop action to lint files with ESLint and automatically format with Prettier.
 
 ## Helpers

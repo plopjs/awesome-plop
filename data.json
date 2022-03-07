@@ -30,6 +30,11 @@
     "category": "Actions"
   },
   {
+    "name": "Plop Action ESLint",
+    "repoUrl": "natterstefan/plop-action-eslint",
+    "category": "Actions"
+  },
+  {
     "name": "Plop Helper Date",
     "repoUrl": "bradgarropy/plop-helper-date",
     "category": "Helpers"
