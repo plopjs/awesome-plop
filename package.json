@@ -5,7 +5,7 @@
   "description": "A list of awesome PlopJS related projects",
   "main": "markdown-from-repos.js",
   "dependencies": {
-    "node-fetch": "^3.0.0"
+    "node-fetch": "^3.1.1"
   },
   "engines": {
     "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
