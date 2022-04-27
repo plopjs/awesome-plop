@@ -12,7 +12,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node ./markdown-from-repos.js"
+    "start": "node ./markdown-from-repos.js",
+    "build": "npm run start"
   },
   "repository": {
     "type": "git",

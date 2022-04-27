@@ -35,7 +35,15 @@ Promise.all(
 		.map((header) => {
 			const repoArr = reposObj[header];
 			const headerItems = repoArr
-				.map((repoData) => `- [${repoData.name}](${repoData.html_url}) - ${repoData.description}`)
+				.map((repoData) => {
+					let str = `- [${repoData.name}](${repoData.html_url}) - ${repoData.description}`
+					if (repoData.image && !repoData.imageLink) {
+						str += `\n\n![${repoData.imageAlt || ""}](${repoData.image})\n\n`
+					} else if (repoData.image && repoData.imageLink) {
+						str += `\n\n[![${repoData.imageAlt || ""}](${repoData.image})](${repoData.imageLink})\n\n`
+					}
+					return str;
+				})
 				.join('\n');
 			return `## ${header}\n\n${headerItems}`;
 		})

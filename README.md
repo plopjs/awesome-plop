@@ -32,3 +32,20 @@ Because of its powerful extendability, you can make your own packages that tie i
 ## IDE Plugins
 
 - [Plop File Templates for Visual Studio Code](https://github.com/SamKirkland/plop-templates) - VSCode extension for plop.js file templates
+
+## Inquirer Prompts
+
+- [Inquirer Directory](https://github.com/nicksrandall/inquirer-directory) - a directory (relative to given path) selector for Inquirer.js
+
+[![An inquirer prompt asking what directory you'd like to perform an action in. It has the ability to go up and down directories in the CLI](https://asciinema.org/a/31651.png)](https://asciinema.org/a/31651)
+
+
+- [Inquirer Recursive](https://github.com/nathanloisel/inquirer-recursive) - Recursive prompt for inquirer
+
+![An inquirer prompt that loops through the same questions repeatedly until an exit condition is given](http://i.giphy.com/l2JhntGGk3QjTUIiA.gif)
+
+
+- [Inquirer Select Line](https://github.com/adam-golab/inquirer-select-line) - Prompt for inquirer for inserting into array
+
+![An inquirer prompt showing the user moving up and down a list with arrow keys, placing an item in the list order](http://i.giphy.com/xUA7b1MxpngddUvdHW.gif)
+

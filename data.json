@@ -73,5 +73,27 @@
     "name": "Plop Generator React Atomic Component",
     "repoUrl": "ahoendgen/plop-generator-react-atomic-component",
     "category": "Generators"
+  },
+  {
+    "name": "Inquirer Directory",
+    "repoUrl": "nicksrandall/inquirer-directory",
+    "category": "Inquirer Prompts",
+    "image": "https://asciinema.org/a/31651.png",
+    "imageAlt": "An inquirer prompt asking what directory you'd like to perform an action in. It has the ability to go up and down directories in the CLI",
+    "imageLink": "https://asciinema.org/a/31651"
+  },
+  {
+    "name": "Inquirer Recursive",
+    "repoUrl": "nathanloisel/inquirer-recursive",
+    "category": "Inquirer Prompts",
+    "image": "http://i.giphy.com/l2JhntGGk3QjTUIiA.gif",
+    "imageAlt": "An inquirer prompt that loops through the same questions repeatedly until an exit condition is given"
+  },
+  {
+    "name": "Inquirer Select Line",
+    "repoUrl": "adam-golab/inquirer-select-line",
+    "category": "Inquirer Prompts",
+    "image": "http://i.giphy.com/xUA7b1MxpngddUvdHW.gif",
+    "imageAlt": "An inquirer prompt showing the user moving up and down a list with arrow keys, placing an item in the list order"
   }
 ]
