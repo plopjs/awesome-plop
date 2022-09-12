@@ -21,12 +21,14 @@ Because of its powerful extendability, you can make your own packages that tie i
 - [Plop Helper Date](https://github.com/bradgarropy/plop-helper-date) - A plop helper to grab the current date.
 - [Plop Helper List](https://github.com/bradgarropy/plop-helper-list) - A plop helper that formats comma separated values.
 - [Plop Helper Slugify](https://github.com/bradgarropy/plop-helper-slugify) - A plop helper that slugifies text.
+- [Plop Helper Includes](https://github.com/bradgarropy/plop-helper-includes) - A plop helper that conditionally renders if an array includes a value.
 
 ## Generators
 
 - [Plop Generator React Component](https://github.com/bradgarropy/plop-generator-react-component) - A plop generator for React components.
 - [Plop Generator React Context](https://github.com/bradgarropy/plop-generator-react-context) - A plop generator for React context.
 - [Plop Generator React Hook](https://github.com/bradgarropy/plop-generator-react-hook) - A plop generator for React hooks.
+- [Plop Generator Remix Route](https://github.com/bradgarropy/plop-generator-remix-route) - A plop generator for Remix routes.
 - [Plop Generator React Atomic Component](https://github.com/ahoendgen/plop-generator-react-atomic-component) - An opinionated plop generator for typescript atomic react components.
 
 ## IDE Plugins
