@@ -85,6 +85,11 @@
         "category": "Generators"
     },
     {
+        "name": "Plop Generator Angular NGXS Store",
+        "repoUrl": "lukasz-pekala/plop-generator-ngxs-store",
+        "category": "Generators"
+    },
+    {
         "name": "Inquirer Directory",
         "repoUrl": "nicksrandall/inquirer-directory",
         "category": "Inquirer Prompts",
