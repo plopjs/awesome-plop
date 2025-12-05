@@ -80,6 +80,11 @@
         "category": "IDE Plugins"
     },
     {
+        "name": "Plop Plugin for JetBrains IDEs",
+        "repoUrl": "jasny/plop-jetbrains-plugin",
+        "category": "IDE Plugins"
+    },
+    {
         "name": "Plop Generator React Atomic Component",
         "repoUrl": "ahoendgen/plop-generator-react-atomic-component",
         "category": "Generators"
